@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/PIGJET/leet/tree/master/1323-maximum-69-number) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/PIGJET/leet/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
