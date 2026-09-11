@@ -1,71 +1,40 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0502-ipo](https://github.com/PIGJET/leet/tree/master/0502-ipo) |
-| [0881-boats-to-save-people](https://github.com/PIGJET/leet/tree/master/0881-boats-to-save-people) |
-| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/PIGJET/leet/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
-| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/PIGJET/leet/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
-## Greedy
-|  |
-| ------- |
-| [0502-ipo](https://github.com/PIGJET/leet/tree/master/0502-ipo) |
-| [0881-boats-to-save-people](https://github.com/PIGJET/leet/tree/master/0881-boats-to-save-people) |
-| [1323-maximum-69-number](https://github.com/PIGJET/leet/tree/master/1323-maximum-69-number) |
-| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/PIGJET/leet/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
-| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/PIGJET/leet/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
-## Sorting
-|  |
-| ------- |
-| [0502-ipo](https://github.com/PIGJET/leet/tree/master/0502-ipo) |
-| [0881-boats-to-save-people](https://github.com/PIGJET/leet/tree/master/0881-boats-to-save-people) |
-| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/PIGJET/leet/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
-| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/PIGJET/leet/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0502-ipo](https://github.com/PIGJET/leet/tree/master/0502-ipo) |
-## Hash Table
-|  |
-| ------- |
-| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/PIGJET/leet/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
-## Counting
-|  |
-| ------- |
-| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/PIGJET/leet/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
-## Two Pointers
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/PIGJET/leet/tree/master/0125-valid-palindrome) |
-| [0344-reverse-string](https://github.com/PIGJET/leet/tree/master/0344-reverse-string) |
-| [0881-boats-to-save-people](https://github.com/PIGJET/leet/tree/master/0881-boats-to-save-people) |
-## Timsort
-|  |
-| ------- |
-| [0881-boats-to-save-people](https://github.com/PIGJET/leet/tree/master/0881-boats-to-save-people) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/PIGJET/leet/tree/master/0002-add-two-numbers) |
-| [1323-maximum-69-number](https://github.com/PIGJET/leet/tree/master/1323-maximum-69-number) |
-## Database
-|  |
-| ------- |
-| [0595-big-countries](https://github.com/PIGJET/leet/tree/master/0595-big-countries) |
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/PIGJET/leet/tree/master/0002-add-two-numbers) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/PIGJET/leet/tree/master/0002-add-two-numbers) |
-## String
-|  |
-| ------- |
-| [0058-length-of-last-word](https://github.com/PIGJET/leet/tree/master/0058-length-of-last-word) |
-| [0125-valid-palindrome](https://github.com/PIGJET/leet/tree/master/0125-valid-palindrome) |
-| [0344-reverse-string](https://github.com/PIGJET/leet/tree/master/0344-reverse-string) |
-<!---LeetCode Topics End-->
+# Algorithms Practice
+
+> A growing collection of interview-style solutions, organized for quick review by topic and difficulty.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Solved](https://img.shields.io/badge/solved-10-22c55e?style=flat-square)
+
+## Progress
+
+| Difficulty | Solved |
+| --- | ---: |
+| Easy | 5 |
+| Medium | 4 |
+| Hard | 1 |
+| **Total** | **10** |
+
+## Selected solutions
+
+| Problem | Difficulty | Main idea |
+| --- | --- | --- |
+| [Add Two Numbers](0002-add-two-numbers/0002-add-two-numbers.py) | Medium | Linked-list traversal and carry propagation |
+| [Valid Palindrome](0125-valid-palindrome/0125-valid-palindrome.py) | Easy | Two pointers and character filtering |
+| [IPO](0502-ipo/0502-ipo.py) | Hard | Sorting with a priority queue |
+| [Boats to Save People](0881-boats-to-save-people/0881-boats-to-save-people.py) | Medium | Greedy pairing with two pointers |
+| [Least Unique Integers After K Removals](1481-least-number-of-unique-integers-after-k-removals/1481-least-number-of-unique-integers-after-k-removals.py) | Medium | Frequency counting and greedy removal |
+| [Partition Array With Maximum Difference K](2294-partition-array-such-that-maximum-difference-is-k/2294-partition-array-such-that-maximum-difference-is-k.py) | Medium | Sorting and greedy partitioning |
+
+## Topics covered
+
+Arrays · strings · linked lists · hash tables · sorting · two pointers · greedy algorithms · heaps · recursion · SQL
+
+Each problem folder contains the submitted solution and the original problem notes generated by LeetHub. [`stats.json`](stats.json) tracks the repository totals.
+
+## What I focus on
+
+- Choosing a suitable data structure before optimizing syntax.
+- Writing compact solutions that remain readable under interview pressure.
+- Identifying reusable patterns such as two pointers, heap selection, and greedy ordering.
+- Keeping the repository useful as a review notebook rather than only a submission archive.
