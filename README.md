@@ -38,3 +38,19 @@ Each problem folder contains the submitted solution and the original problem not
 - Writing compact solutions that remain readable under interview pressure.
 - Identifying reusable patterns such as two pointers, heap selection, and greedy ordering.
 - Keeping the repository useful as a review notebook rather than only a submission archive.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/master/0977-squares-of-a-sorted-array) |
+<!---LeetCode Topics End-->
