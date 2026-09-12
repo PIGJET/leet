@@ -44,10 +44,12 @@ Each problem folder contains the submitted solution and the original problem not
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PIGJET/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PIGJET/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
