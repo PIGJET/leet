@@ -45,6 +45,7 @@ Each problem folder contains the submitted solution and the original problem not
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PIGJET/leet/tree/main/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/PIGJET/leet/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/main/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -54,5 +55,10 @@ Each problem folder contains the submitted solution and the original problem not
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/PIGJET/leet/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/main/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/PIGJET/leet/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
