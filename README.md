@@ -56,9 +56,15 @@ Each problem folder contains the submitted solution and problem statement. [`sta
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PIGJET/leet/tree/main/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PIGJET/leet/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/main/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PIGJET/leet/tree/main/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PIGJET/leet/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/PIGJET/leet/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
