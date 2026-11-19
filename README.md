@@ -45,6 +45,7 @@ Each problem folder contains the submitted solution and problem statement. [`sta
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PIGJET/leet/tree/main/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/PIGJET/leet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PIGJET/leet/tree/main/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/main/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -55,16 +56,19 @@ Each problem folder contains the submitted solution and problem statement. [`sta
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PIGJET/leet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PIGJET/leet/tree/main/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PIGJET/leet/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/main/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PIGJET/leet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PIGJET/leet/tree/main/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PIGJET/leet/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PIGJET/leet/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PIGJET/leet/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
