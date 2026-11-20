@@ -47,6 +47,7 @@ Each problem folder contains the submitted solution and problem statement. [`sta
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PIGJET/leet/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/PIGJET/leet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PIGJET/leet/tree/main/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/PIGJET/leet/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/main/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ Each problem folder contains the submitted solution and problem statement. [`sta
 | [0049-group-anagrams](https://github.com/PIGJET/leet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PIGJET/leet/tree/main/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PIGJET/leet/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/PIGJET/leet/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/main/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -66,9 +68,30 @@ Each problem folder contains the submitted solution and problem statement. [`sta
 | [0049-group-anagrams](https://github.com/PIGJET/leet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PIGJET/leet/tree/main/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PIGJET/leet/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/PIGJET/leet/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PIGJET/leet/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PIGJET/leet/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PIGJET/leet/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PIGJET/leet/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PIGJET/leet/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PIGJET/leet/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PIGJET/leet/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
