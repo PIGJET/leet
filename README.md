@@ -53,6 +53,7 @@ Each problem folder contains the submitted solution and problem statement. [`sta
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PIGJET/leet/tree/main/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/PIGJET/leet/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/PIGJET/leet/tree/main/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -73,6 +74,7 @@ Each problem folder contains the submitted solution and problem statement. [`sta
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PIGJET/leet/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/PIGJET/leet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PIGJET/leet/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
